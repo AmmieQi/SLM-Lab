@@ -52,7 +52,7 @@
     },
     "meta": {
       "max_session": 4,
-      "max_trial": null,
+      "max_trial": 100,
       "search": "EvolutionarySearch",
       "max_generation": 4,
       "train_mode": true
