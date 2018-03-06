@@ -39,7 +39,7 @@
       "num": 1
     },
     "meta": {
-      "max_session": 4,
+      "max_session": 2,
       "max_trial": null,
       "search": "EvolutionarySearch",
       "max_generation": 4,
